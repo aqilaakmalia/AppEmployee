@@ -8,5 +8,8 @@ API service for employee apps
 ## Running Program
 dotnet run
 
-## Link Swagger
+## Link UI
+http://localhost:5211/
+
+## Link Swagger 
 http://localhost:5211/swagger/
